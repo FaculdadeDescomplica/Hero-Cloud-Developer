@@ -1,0 +1,1 @@
+Projeto feito em springboot, angular, ligado a AWS
